@@ -1,0 +1,10 @@
+# Автоматически нормализовать все текстовые файлы в LF в репозитории
+* text=auto
+
+# Примеры для фронтенда
+*.html text
+*.css  text
+*.js   text
+*.ts   text
+*.json text
+*.md   text
