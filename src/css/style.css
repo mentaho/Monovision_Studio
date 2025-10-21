@@ -88,7 +88,7 @@ html {
   padding-top: 75px;
   @media screen and (max-width: 768px) {
     & {
-      background-image: url("/src/img/rose-6921170_1920\ 1.jpg");
+      background-image: url("../img/rose-6921170_1920\ 1.jpg");
     }
   }
   @media screen and (max-width: 576px) {
